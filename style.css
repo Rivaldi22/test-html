@@ -1,9 +1,20 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400;600;800&display=swap');
 
 body {
-margin:0;
-padding:0;
-font-family:'Poppins', serif;
-background-color: #251749;
-color: white ;
+	margin:0;
+	padding:0;
+	font-family:'Poppins', serif;
+	background-color: #181D31;
+	color: white ;
+}
+
+section {
+	margin: 10px;
+	padding: 10px;
+}
+
+.card {
+	background-color: gray;
+	border-radius: 10px;
+	padding: 5px;
 }
